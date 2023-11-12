@@ -80,6 +80,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="80px" src="https://cupy.dev/images/cupy.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      <img width="30px" src="https://raw.githubusercontent.com/yt-project/yt/main/doc/source/_static/yt_logo.png" />
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
@@ -227,6 +228,10 @@
 <!--</p>-->
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+Following is a list of external repositories to which I have significant contributed:
+- [yt_idefix](https://github.com/neutrinoceros/yt_idefix) maintained by [@neutrinoceros](https://github.com/neutrinoceros)
+- [IDEFIX](https://github.com/idefix-code/idefix) maintained by [@glesur](https://github.com/glesur)
 
 <summary><h3> 🔥 Streak Stats</h3></summary>
 
