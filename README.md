@@ -320,3 +320,5 @@ Following is a list of external repositories to which I have significant contrib
 </p>
 
 <picture> <img align="center" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif?raw=true?" width = 250px></picture>
+
+> I acknowledge GitHub users [@7oSkaaa](https://github.com/7oSkaaa), [@Austinae](https://github.com/Austinae), [@SophieNguyen113](https://github.com/SophieNguyen113) and the repo [Awesome GitHub Profile README Template Collection](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) which provided me a lot of markdown codes & assets to design this GitHub page.
