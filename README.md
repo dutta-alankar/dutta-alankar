@@ -31,7 +31,8 @@
 - I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, this is [MY RESUME](https://www.alankardutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
 - 📌 You can visit [MY WEBSITE](https://www.alankardutta.com).
 - I'm open to discussions/suggestions about my work, research ideas or astrophysicst in general. 
-- Don't hesitate to reach out to me! ✉️ 💬 
+- Don't hesitate to reach out to me! ✉️ 💬
+- You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?hl=en&user=QF9fWYcAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/iVkEI6i2RdyGIcouLJvRgg) or [ORCiD](https://orcid.org/0000-0002-9287-4033).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="250px"> </picture> 
@@ -261,7 +262,7 @@
 
 ----
 
-<summary><h3> 📂 My Favorite Repositories </h3></summary>
+<summary><h3> 📂 My Highlighted Repositories </h3></summary>
 	
 <div>
   <p align="center">
