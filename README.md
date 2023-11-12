@@ -242,8 +242,8 @@ Following is a list of external repositories to which I have significant contrib
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="dutta-alankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="230px"/>
+	    <img alt="dutta-alankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="320px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="320px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
