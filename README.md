@@ -263,7 +263,7 @@ Following is a list of external repositories to which I have significantly contr
 <p align="center">
 	<picture>
                 <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=gruvbox" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
                 </picture>
 	<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" />-->
@@ -277,7 +277,7 @@ Following is a list of external repositories to which I have significantly contr
                 <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=gruvbox_light&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
-                </picture>
+        </picture>
     <!--<a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="dutta-alankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="250px"/>-->
@@ -297,7 +297,14 @@ Following is a list of external repositories to which I have significantly contr
 <details><summary> <h3> 🏆 Git profile Trophies </h3></summary>
 
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dutta-alankar" /></a> </p>
+<p align="center"> 
+	<picture>
+                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+        </picture>
+	<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dutta-alankar" /></a>--> 
+</p>
 
 [![An image of @duttaalankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/duttaalankar)](https://holopin.io/@duttaalankar)
 	
