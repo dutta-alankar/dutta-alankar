@@ -98,6 +98,8 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
       <img width="30px" src="https://spack.io/assets/images/spack-logo-white.svg" />
       <img width="100px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Environment_Modules_logo.svg" />
+      <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" />
+      <img width="24px" src="https://avatars3.githubusercontent.com/u/19280436?s=400&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
     </kbd>
@@ -119,12 +121,12 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" src="https://scipy.org/images/logo.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+      <img width="35px" src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
       <img width="50px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
-      <img width="80px" src="https://qph.cf2.quoracdn.net/main-qimg-99c03f78c7fd885d908fb658fce87454" />
   </kbd>
   <kbd>
       <kbd>Others</kbd>
