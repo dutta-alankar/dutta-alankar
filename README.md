@@ -297,34 +297,84 @@ Following is a list of external repositories to which I have significant contrib
 <div>
   <p align="center">
 	<a href="https://github.com/dutta-alankar/AstroPlasma">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma&theme=tokyonight" alt="GitHub Stats" />
+		<picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
 	<a href="https://github.com/dutta-alankar/MultiphaseGalacticHaloModel">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=MultiphaseGalacticHaloModel&theme=tokyonight" alt="GitHub Stats" />
+		<picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=MultiphaseGalacticHaloModel&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=MultiphaseGalacticHaloModel&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=MultiphaseGalacticHaloModel&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/AstroPlasma-server">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/cooling-flow-model">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cooling-flow-model&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cooling-flow-model&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cooling-flow-model&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cooling-flow-model&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/CCinCC85">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=CCinCC85&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=CCinCC85&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=CCinCC85&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=CCinCC85&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/ArepoCC85">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=ArepoCC85&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=ArepoCC85&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=ArepoCC85&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=ArepoCC85&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/cloudy-grids-line-emission">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cloudy-grids-line-emission&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cloudy-grids-line-emission&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cloudy-grids-line-emission&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=cloudy-grids-line-emission&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/Lecoanet-KH-PLUTO">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=Lecoanet-KH-PLUTO&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=Lecoanet-KH-PLUTO&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=Lecoanet-KH-PLUTO&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=Lecoanet-KH-PLUTO&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/openmp-mpi-pi-calc-demo">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=openmp-mpi-pi-calc-demo&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=openmp-mpi-pi-calc-demo&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=openmp-mpi-pi-calc-demo&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=openmp-mpi-pi-calc-demo&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
     <a href="https://github.com/dutta-alankar/parallel-finite_difference-diffusion-equation-solver">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=parallel-finite_difference-diffusion-equation-solver&theme=tokyonight" alt="GitHub Stats" />
+	        <picture>
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=parallel-finite_difference-diffusion-equation-solver&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=parallel-finite_difference-diffusion-equation-solver&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+      		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=parallel-finite_difference-diffusion-equation-solver&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
   </p>
 </div>
