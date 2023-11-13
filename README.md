@@ -23,14 +23,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - I'm a `Computational Astrophysicist`. 
-- Currently I'm a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
+- Currently, I'm a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
 - I work on designing numerical simulations and models of the Circumgalactic medium (CGM) which forms the diffuse gas environment around galaxies.
 - `Research interest`: Understanding the role of CGM in galaxy formation & evolution.
 - I am also interested in connecting simulations with multi-wavelength observations.
-- `Expertise`: Magneto-hydrodynamic simulations, High Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
+- `Expertise`: Magneto-hydrodynamic simulations, High-Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
 - I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, this is [MY RESUME](https://www.alankardutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
 - 📌 You can visit [MY WEBSITE](https://www.alankardutta.com).
-- I'm open to discussions/suggestions about my work, research ideas or astrophysicst in general. 
+- I'm open to discussions/suggestions about my work, research ideas, or astrophysics in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?hl=en&user=QF9fWYcAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/iVkEI6i2RdyGIcouLJvRgg) or [ORCiD](https://orcid.org/0000-0002-9287-4033).
 <br>
@@ -254,7 +254,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-Following is a list of external repositories to which I have significant contributed:
+Following is a list of external repositories to which I have significantly contributed:
 - [yt_idefix](https://github.com/neutrinoceros/yt_idefix) maintained by [@neutrinoceros](https://github.com/neutrinoceros)
 - [IDEFIX](https://github.com/idefix-code/idefix) maintained by [@glesur](https://github.com/glesur)
 
@@ -277,7 +277,8 @@ Following is a list of external repositories to which I have significant contrib
 
 <summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=000000&color=ffffff&line=00ffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=0e0101&color=b0ee87&line=8bd0cf&point=a12012&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-dark-mode-only)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=ffffff&color=050505&line=2a8987&point=a12012&area=true&hide_border=true#gh-light-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-light-mode-only)
 
  
 
