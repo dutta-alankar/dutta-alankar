@@ -260,15 +260,27 @@ Following is a list of external repositories to which I have significantly contr
 
 <summary><h3> 🔥 Streak Stats</h3></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" /></p>
+<p align="center">
+	<picture>
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+	<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" />-->
+</p>
 
   
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+	<picture>
+                <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=gruvbox_light&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+                </picture>
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="dutta-alankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="250px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="250px"/>-->
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
