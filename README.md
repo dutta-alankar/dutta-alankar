@@ -259,16 +259,13 @@ Following is a list of external repositories to which I have significantly contr
 - [IDEFIX](https://github.com/idefix-code/idefix) maintained by [@glesur](https://github.com/glesur)
 
 <summary><h3> 🔥 Streak Stats</h3></summary>
-
-<p align="center">
-	<picture>
-                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=dracula" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=solarized-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
-        </picture>
-	<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" />-->
-</p>
-
+	<p align="center">
+		<picture>
+           	     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=dracula" media="(prefers-color-scheme: dark)" />
+          	      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=solarized-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+             	   <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+       	 	</picture>
+	</p>
   
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
