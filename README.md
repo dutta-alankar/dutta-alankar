@@ -46,6 +46,10 @@
 	<a href="https://instagram.com/alankar_dutta"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<!--<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>-->
 </p>
+<br>
+<p>
+Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> repos.
+</p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture> Technical Expertise
 
@@ -91,6 +95,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
       <img width="30px" src="https://spack.io/assets/images/spack-logo-white.svg" />
+      <img width="100px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Environment_Modules_logo.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
     </kbd>
@@ -126,6 +131,19 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+      <img width="30px" src="https://avatars.githubusercontent.com/u/10199860?s=200&v=4" />
+      <img width="60px" src="https://www.hdfgroup.org/wp-content/uploads/2017/11/stackedlogo-RGB.jpg" />
+    </kbd>
+    <kbd>
+      <kbd>Astrophysics codes & simulations</kbd>
+      <br>
+      <br>
+      PLUTO
+      AREPO
+      IDEFIX
+      CLOUDY
+      IllustrisTNG
+      ATHENA(K,PK)
     </kbd>
   </p>
 </div>
