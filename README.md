@@ -87,6 +87,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="80px" src="https://cupy.dev/images/cupy.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       <img width="30px" src="https://raw.githubusercontent.com/yt-project/yt/main/doc/source/_static/yt_logo.png" />
+      <img width="70px" src="https://www.paraview.org/Wiki/images/8/8a/CatalystLogo.png" />
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
