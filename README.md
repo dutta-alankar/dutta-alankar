@@ -286,8 +286,8 @@ Following is a list of external repositories to which I have significantly contr
 
 <summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=0e0101&color=b0ee87&line=8bd0cf&point=a12012&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-dark-mode-only)
-[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=ffffff&color=050505&line=2a8987&point=a12012&area=true&hide_border=true#gh-light-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-light-mode-only)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=0e0101&color=b0ee87&line=8bd0cf&point=a12012&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=ffffff&color=050505&line=2a8987&point=a12012&area=true&hide_border=true#gh-light-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 
  
 
