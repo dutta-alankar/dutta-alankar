@@ -28,7 +28,7 @@
 - `Research interest`: Understanding the role of CGM in galaxy formation & evolution.
 - I am also interested in connecting simulations with multi-wavelength observations.
 - `Expertise`: Magneto-hydrodynamic simulations, High-Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
-- I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, this is [MY RESUME](https://www.alankardutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
+- I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, this is [MY RÉSUMÉ](https://www.alankardutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
 - 📌 You can visit [MY WEBSITE](https://www.alankardutta.com).
 - I'm open to discussions/suggestions about my work, research ideas, or astrophysics in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
