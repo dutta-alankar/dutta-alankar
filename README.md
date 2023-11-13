@@ -130,13 +130,13 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <kbd>Others</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
       <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
       <img width="30px" src="https://avatars.githubusercontent.com/u/10199860?s=200&v=4" />
       <img width="60px" src="https://www.hdfgroup.org/wp-content/uploads/2017/11/stackedlogo-RGB.jpg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     </kbd>
     <kbd>
       <kbd>Astrophysics codes & simulations</kbd>
