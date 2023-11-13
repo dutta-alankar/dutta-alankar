@@ -262,10 +262,10 @@ Following is a list of external repositories to which I have significantly contr
 
 <p align="center">
 	<picture>
-                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=gruvbox" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=dracula" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=solarized-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
-                </picture>
+        </picture>
 	<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" />-->
 </p>
 
@@ -300,7 +300,7 @@ Following is a list of external repositories to which I have significantly contr
 <p align="center"> 
 	<picture>
                 <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=oldie&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
         </picture>
 	<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dutta-alankar" /></a>--> 
