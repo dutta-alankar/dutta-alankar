@@ -23,14 +23,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - I'm a `Computational Astrophysicist`. 
-- Currently I'm a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
+- Currently, I'm a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
 - I work on designing numerical simulations and models of the Circumgalactic medium (CGM) which forms the diffuse gas environment around galaxies.
 - `Research interest`: Understanding the role of CGM in galaxy formation & evolution.
 - I am also interested in connecting simulations with multi-wavelength observations.
-- `Expertise`: Magneto-hydrodynamic simulations, High Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
+- `Expertise`: Magneto-hydrodynamic simulations, High-Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
 - I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, this is [MY RESUME](https://www.alankardutta.com/_files/ugd/e499d0_cd67803fa0994ed0873e30caffd91f00.pdf).
 - 📌 You can visit [MY WEBSITE](https://www.alankardutta.com).
-- I'm open to discussions/suggestions about my work, research ideas or astrophysicst in general. 
+- I'm open to discussions/suggestions about my work, research ideas, or astrophysics in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?hl=en&user=QF9fWYcAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/iVkEI6i2RdyGIcouLJvRgg) or [ORCiD](https://orcid.org/0000-0002-9287-4033).
 <br>
@@ -254,21 +254,33 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-Following is a list of external repositories to which I have significant contributed:
+Following is a list of external repositories to which I have significantly contributed:
 - [yt_idefix](https://github.com/neutrinoceros/yt_idefix) maintained by [@neutrinoceros](https://github.com/neutrinoceros)
 - [IDEFIX](https://github.com/idefix-code/idefix) maintained by [@glesur](https://github.com/glesur)
 
 <summary><h3> 🔥 Streak Stats</h3></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" /></p>
+<p align="center">
+	<picture>
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=dracula" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=solarized-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+        </picture>
+	<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutta-alankar&theme=tokyonight_duo" alt="dutta-alankar" />-->
+</p>
 
   
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+	<picture>
+                <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=gruvbox_light&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+        </picture>
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="dutta-alankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="250px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dutta-alankar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dutta-alankar" height="250px"/>-->
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -277,14 +289,22 @@ Following is a list of external repositories to which I have significant contrib
 
 <summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=000000&color=ffffff&line=00ffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=0e0101&color=b0ee87&line=8bd0cf&point=a12012&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-dark-mode-only)
+[![Alankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutta-alankar&bg_color=ffffff&color=050505&line=2a8987&point=a12012&area=true&hide_border=true#gh-light-mode-only)](https://github.com/dutta-alankar/github-readme-activity-graph#gh-light-mode-only)
 
  
 
 <details><summary> <h3> 🏆 Git profile Trophies </h3></summary>
 
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dutta-alankar" /></a> </p>
+<p align="center"> 
+	<picture>
+                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=oldie&column=4&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
+        </picture>
+	<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutta-alankar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dutta-alankar" /></a>--> 
+</p>
 
 [![An image of @duttaalankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/duttaalankar)](https://holopin.io/@duttaalankar)
 	
