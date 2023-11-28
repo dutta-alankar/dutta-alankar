@@ -406,7 +406,7 @@ Following is a list of external repositories to which I have significantly contr
  ----
  ## Fun part
  
-### A 🐍 Eating my Contributions Graph
+### A 🐍 eating my Contributions Graph
 	
 <p align = "center">
 <picture>
