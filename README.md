@@ -334,10 +334,10 @@ Following is a list of external repositories to which I have significantly contr
                 </picture>
       		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=MultiphaseGalacticHaloModel&theme=tokyonight" alt="GitHub Stats" />-->
     	</a>
-    <a href="https://github.com/dutta-alankar/AstroPlasma-server">
+    <a href="https://github.com/dutta-alankar/website-visitor-stat-app">
 	        <picture>
-                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=website-visitor-stat-app&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=website-visitor-stat-app&theme=gruvbox_light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=dutta-alankar&show_icons=true" />
                 </picture>
       		<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dutta-alankar&repo=AstroPlasma-server&theme=tokyonight" alt="GitHub Stats" />-->
