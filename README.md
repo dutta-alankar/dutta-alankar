@@ -100,7 +100,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
       <img width="30px" src="https://spack.io/assets/images/spack-logo-white.svg" />
-      <img width="100px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Environment_Modules_logo.svg" />
+      <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Environment_Modules_logo.svg" />
       <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" />
       <img width="24px" src="https://avatars3.githubusercontent.com/u/19280436?s=400&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
