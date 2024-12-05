@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Alankar Dutta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Computational+Astrophysicist;Currently+a+Ph.D.+student;at+Indian+Institute+of+Science;Visit+my+website+www.alankardutta.com;Email+me+at+alankardutta%40iisc.ac.in" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Computational+Astrophysicist;Currently+a+postdoctoral+fellow;at+Max-Planck-Institut+für+Astrophysik,;Garching b. München, Germany;Visit+my+website+www.alankardutta.com;Email+me+at+alankard%40mpa-garching.mpg.de" alt="Typing SVG" /></a>
 </p>
 
 
@@ -23,13 +23,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - I'm a `Computational Astrophysicist`. 
-- Currently, I'm a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
+- Currently, I'm a postdoctoral fellow at [Max-Planck-Institut für Astrophysik](https://www.mpa-garching.mpg.de), Garching bei München, Germany.
+- Previously, I was a Ph.D. student at the [Department of Physics](http://www.physics.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/). 
 - I work on designing numerical simulations and models of the Circumgalactic medium (CGM) which forms the diffuse gas environment around galaxies.
 - `Research interest`: Understanding the role of CGM in galaxy formation & evolution.
 - I am also interested in connecting simulations with multi-wavelength observations.
 - `Expertise`: Magneto-hydrodynamic simulations, High-Performance Computing (HPC), Plasma modeling, Large Data Analysis and Visualization, ...
 <!-- - I’m currently in the final year of my Ph.D. & looking for a `postdoctoral position`, --> 
-- This is [MY RÉSUMÉ](https://www.alankardutta.com/_files/ugd/e499d0_18b5e9ce3ac84a1f93d6f176c944c1e0.pdf). 
+- This is [MY RÉSUMÉ](https://www.alankardutta.com/_files/ugd/e499d0_ddb36e8f7fd9460f844a8ef5cbb81ac1.pdf). 
 - 📌 You can visit [MY WEBSITE](https://www.alankardutta.com).
 - I'm open to discussions/suggestions about my work, research ideas, or astrophysics in general. 
 - Don't hesitate to reach out to me! ✉️ 💬
