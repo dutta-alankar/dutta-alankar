@@ -65,7 +65,8 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       <img width="30px" src="https://www.wolfram.com/common/framework/img/spikey.en.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+      <img width="40px" src="https://chapel-lang.org/images/chapel-logo.png" />   
+      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> -->
     </kbd>
     <kbd>
       <kbd>Operating systems</kbd>
@@ -87,7 +88,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="80px" src="https://cupy.dev/images/cupy.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       <img width="30px" src="https://raw.githubusercontent.com/yt-project/yt/main/doc/source/_static/yt_logo.png" />
-      <img width="70px" src="https://www.paraview.org/Wiki/images/8/8a/CatalystLogo.png" />
+      <img width="30px" src="https://www.paraview.org/wp-content/uploads/2023/10/Catalyst-Mark.svg" />
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
@@ -116,7 +117,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <kbd>Tools & IDEs</kbd>
       <br>
       <br>
-      <img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
+      <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -125,9 +126,9 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="35px" src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-      <img width="50px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+      <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" />
+      <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" />
+      <img width="30px" src="https://www.dmuth.org/wp-content/uploads/2020/01/ssh.png" />
   </kbd>
   <kbd>
       <kbd>Others</kbd>
