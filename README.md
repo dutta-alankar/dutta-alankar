@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Alankar Dutta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Computational+Astrophysicist;Currently+a+postdoctoral+fellow;at+Max-Planck-Institut+für+Astrophysik,;Garching b. München, Germany;Visit+my+website+www.alankardutta.com;Email+me+at+alankard%40mpa-garching.mpg.de" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1100&lines=Computational+astrophysicist+working+on+galaxy+formation;Postdoctoral+fellow+at+Max-Planck-Institut+f%C3%BCr+Astrophysik%2C+Garching;Based+in+Munich%2C+Germany;Website%3A+www.alankardutta.com;Email%3A+alankard%40mpa-garching.mpg.de" alt="Typing SVG" /></a>
 </p>
-
-
 <br>
 
 <div align=center>
