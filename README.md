@@ -122,7 +122,8 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://scipy.org/images/logo.svg" />
+      <img width="30px" src="https://scipy.org/images/logo.svg" />    
+      <img width="30px" src="https://docs.dask.org/en/stable/_images/dask_icon.svg" />
       <img width="35px" src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
