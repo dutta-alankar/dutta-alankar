@@ -9,9 +9,7 @@
 </div>
     
 <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/dutta-alankar/count.svg" />  
-</p>
+ ![](https://komarev.com/ghpvc/?username=dutta-alankar&abbreviated=true&color=green&style=for-the-badge)
 
 </p>
 
