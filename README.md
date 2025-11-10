@@ -115,7 +115,7 @@ Also checkout my <a href="https://hub.docker.com/u/alankardutta">Docker Hub</a> 
       <kbd>Tools & IDEs</kbd>
       <br>
       <br>
-      <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
